@@ -1,2 +1,6 @@
 # Javascript-Projects
-This space is dedicated to showcasing a variety of JavaScript-based mini-projects, practice exercises, and creative experiments.
+Welcome to my JavaScript Projects repository! 👋  
+This repository contains a collection of small to medium-scale JavaScript projects created for learning, practice, and fun. Each project explores different concepts such as DOM manipulation, event handling, API integration, and more.
+# 🛠️ Tech Stack
+- JavaScript (ES6+)
+- HTML5 & CSS3
